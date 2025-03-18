@@ -17,15 +17,13 @@ This project is a retail recommendation system that suggests similar products ba
 2. **Similarity Calculation:** The cosine similarity between products is calculated based on their purchase quantities.
 3. **Recommendation Generation:** Similar products to the input product are recommended based on the calculated similarities.
 
-## Installation
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/OzkanCelikkilic/retail-recommendation-system.git
-
 ## Some Outputs   
 
 ![Example1](https://github.com/OzkanCelikkilic/Retail-Recommendation-System/assets/134146392/8cee865c-542c-461c-acba-15150c262221)
 ![Example2 (1)](https://github.com/OzkanCelikkilic/Retail-Recommendation-System/assets/134146392/1580fddf-1b45-489e-996d-80ca7617d1f0)
 ![Example3 (1)](https://github.com/OzkanCelikkilic/Retail-Recommendation-System/assets/134146392/4e40ffa2-4e06-40c8-a0f7-b9c2772994b1)
 
-
+## Installation
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/OzkanCelikkilic/retail-recommendation-system.git
